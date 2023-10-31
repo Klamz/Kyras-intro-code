@@ -1,5 +1,12 @@
 /* last rules win! more specific selector wins! */
 
+:root{
+    --dark-blue: #2a315f;
+    --med-blue: #6675d3;
+    --gold: #FFB859;
+}
+/* need to have ../ to get th eroot from the css folder */
+
 * {
     box-sizing: border-box;
 }
